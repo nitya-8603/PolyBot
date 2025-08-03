@@ -1,16 +1,15 @@
-# ai_assistant
+
+
+
+
+
+https://github.com/user-attachments/assets/16d22117-96ee-42d5-890d-44a64fa48735
+
+
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+An AI assistant app that comes with 3 features: chatbot, image generation from text prompts and language translation.
+Also implemented the feature of theme change to make User experience smoother.
